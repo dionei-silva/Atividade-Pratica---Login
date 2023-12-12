@@ -7,7 +7,7 @@ Exercícios de fixação do programa de formação despertar dev da GROWDEV.
 - Objetos
 - Funções
 - DOM
-- API
+- API (LINK de usuarios => https://65089a2a56db83a34d9c8c86.mockapi.io/api/v1/users)
 
 ## Tecnologias Utilizadas
 
